@@ -3,8 +3,8 @@
  */
 public class AWorkshop1 {
 
-    public void greet(){
-        System.out.println("Hello Anna");
+    public void greet(String name){
+        System.out.println("Hello " + name);
     }
 
 }
