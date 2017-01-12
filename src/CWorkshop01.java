@@ -3,7 +3,8 @@
  */
 public class CWorkshop01 {
 
-    public void cheer(){
-        System.out.println("Peridots are the best!");
+    public void cheer(String hello){
+        hello = "Peridots are the best!";
+        System.out.println(hello);
     }
 }
