@@ -1,6 +1,6 @@
 public class DWorkshop1 {
 
     public void future(String horoscopeSign) {
-        System.out.println("My chinese horoscope sign is: " + horoscopeSign);
+        System.out.println("Your future looks like " + horoscopeSign);
     }
 }
