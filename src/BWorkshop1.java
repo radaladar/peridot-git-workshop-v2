@@ -2,7 +2,7 @@
 
 public class BWorkshop1 {
 
-  public void count(int year, String month, int day) {
+    public void count(int year, String month, int day) {
         year = 1956;
         month = "december";
         day = 21;

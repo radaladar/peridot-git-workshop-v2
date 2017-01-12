@@ -4,7 +4,7 @@
 public class CWorkshop01 {
 
     public void cheer(String hello){
-        hello = "Peridots are the best! Also Java!";
+        hello = "Cheer for the parameter";
         System.out.println(hello);
     }
 }
