@@ -6,8 +6,5 @@ public class AWorkshop1 {
         name = "Peridot";
         dayNumber = 1;
         System.out.println("Greetings "+ name + "! It is great to work together on our " + dayNumber + "st day!");
-
     }
 }
-
-
