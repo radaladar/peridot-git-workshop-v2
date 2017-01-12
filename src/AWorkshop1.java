@@ -4,7 +4,7 @@
 public class AWorkshop1 {
 
     public void greet(String name){
-        System.out.println("Greetings!");
+        System.out.println("Greetings Everyone! Great to work together!");
     }
 
 }
