@@ -4,6 +4,6 @@
 public class CWorkshop01 {
 
     public void cheer(){
-        System.out.println("Peridots are the best!");
+        System.out.println("Peridots are the best! Also Java!");
     }
 }
