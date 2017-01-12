@@ -2,7 +2,7 @@
 
 public class BWorkshop1 {
 
-    public void count() {
-        System.out.println("My age is: 27");
+    public void count(int age) {
+        System.out.println("My age is: " + age);
     }
 }
