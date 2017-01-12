@@ -4,7 +4,8 @@
 public class AWorkshop1 {
 
     public void greet(String name){
-        System.out.println("Greetings!");
+        name = "szilvi";
+        System.out.println("Greetings" + name + "!");
     }
 
 }
