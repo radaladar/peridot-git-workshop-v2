@@ -3,9 +3,13 @@
  */
 public class AWorkshop1 {
 
-    public void greet(String name){
+
+    public void greet(String name) {
         name = "szilvi";
         System.out.println("Greetings" + name + "!");
-    }
 
+
+    }
 }
+
+
