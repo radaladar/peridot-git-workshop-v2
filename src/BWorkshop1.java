@@ -2,9 +2,7 @@
 
 public class BWorkshop1 {
     
-    public void count(String month, long day, int xyyxyxyxyxxxx) {
-        month = "december";
-        System.out.println("I was born in " + month + day + xyyxyxyxyxxxx);
-        xyyxyxyxyxxxx = 0;
+    public void count(String parameter) {
+        System.out.println("Counting the countless" + parameter);
     }
 }
