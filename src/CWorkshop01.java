@@ -3,7 +3,7 @@
  */
 public class CWorkshop01 {
 
-    public void cheer(String hello){
+    public void cheer(String hello) {
         hello = "Cheer for the parameter";
         System.out.println(hello);
     }
