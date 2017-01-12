@@ -2,9 +2,10 @@
 
 public class BWorkshop1 {
     
-    public void count(String month, long day, int xyyxyxyxyxxxx) {
+    public void count(int year, String month, int day) {
+        year = 1956;
         month = "december";
-        System.out.println("I was born in " + month + day + xyyxyxyxyxxxx);
-        xyyxyxyxyxxxx = 0;
+        day = 21;
+        System.out.println("I was born in " + month + day + day);
     }
 }
